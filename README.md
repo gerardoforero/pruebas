@@ -1,4 +1,4 @@
-# Archivo de Prueba del Repositorio
+# Archivo de Prueba del Repositorio Editado
 
 Este archivo se utiliza únicamente para validar el flujo de trabajo de Git y GitHub.
 
